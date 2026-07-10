@@ -24,7 +24,7 @@ function Nav() {
   return (
     <nav className="flex items-center justify-between px-8 py-4 border-b border-gray-900">
       <Link to="/" className="text-base font-medium">
-        bojboj.dev
+        Boj.py
       </Link>
       <div className="flex gap-5 text-sm text-gray-700">
         {navLinks.map((link) => (

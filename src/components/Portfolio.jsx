@@ -61,7 +61,7 @@ function Portfolio() {
       <div className="max-w-4xl mx-auto border border-gray-900 rounded">
         {/* Nav */}
         <nav className="flex items-center justify-between px-8 py-4 border-b border-gray-900">
-          <span className="text-base font-medium">bojboj.dev</span>
+          <span className="text-base font-medium">Aziz_BEJAWU.py</span>
           <div className="flex gap-5 text-sm text-gray-700">
             <span className="text-gray-900 font-medium">Home</span>
             <span>About</span>

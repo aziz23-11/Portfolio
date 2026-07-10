@@ -80,12 +80,12 @@ function Home() {
           <span className="inline-block text-xs border border-gray-900 rounded-full px-3 py-1 mb-5">
             available for new projects
           </span>
-          <h1 className="text-3xl font-medium mb-2">Hey, I am BojBoj</h1>
+          <h1 className="text-3xl font-medium mb-2">Hey, I am Bejawi Aziz</h1>
           <p className="text-lg text-gray-700 mb-4">
-            Computer science student — AI &amp; full-stack development
+            Computer science student — AI &amp; full-stack development &amp; Graphic designer
           </p>
           <p className="text-sm text-gray-600 max-w-md mx-auto mb-6">
-            I build cool software — Run on caffein
+            I build cool software — Run on caffein &amp;
             Creat clean, functional design.
           </p>
           <div className="flex gap-3 justify-center">
@@ -284,7 +284,7 @@ function Home() {
               <p className="text-xs font-medium mb-2">Find me on</p>
               <div className="flex gap-2.5">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/aziz23-11"
                   target="_blank"
                   rel="noreferrer"
                   aria-label="GitHub"
