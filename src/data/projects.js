@@ -12,13 +12,14 @@ export const projects = [
       "KHADAMNI compares a candidate's CV against a job description and returns a compatibility score, broken down into skills, experience, and education. CVs are parsed and matched using spaCy's PhraseMatcher, with scoring based on cosine similarity between extracted skill vectors. The app includes JWT authentication, profile management, email verification, and job suggestions pulled live from the Himalayas API. A glassmorphism React frontend sits on top of a FastAPI backend with a MySQL database.",
     stack: ["React", "Tailwind CSS", "FastAPI", "MySQL", "spaCy", "scikit-learn"],
     role: "Final-year project (PFE), full-stack developer",
-    link: "https://github.com",
+    link: "https://github.com/aziz23-11/khadamni",
     demoLink: "",
-    // Drop your screenshots in public/projects/khadamni/ and list them here.
-    // Each image just needs a path (served from /public) and an optional alt text.
     screenshots: [
-      // { src: "/projects/khadamni/1.png", alt: "KHADAMNI dashboard" },
-      // { src: "/projects/khadamni/2.png", alt: "CV compatibility score screen" },
+      { src: "/projects/khadamni/landing.jpeg", alt: "landing page" },
+      { src: "/projects/khadamni/score.jpeg", alt: "score page" },
+      { src: "/projects/khadamni/feedback.jpeg", alt: "feedback part" },
+      { src: "/projects/khadamni/profile.jpeg", alt: "profile page + job suggestion" },
+      { src: "/projects/khadamni/login.jpeg", alt: "login + signUp page" },
     ],
   },
   {
