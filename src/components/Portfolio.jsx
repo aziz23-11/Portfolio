@@ -57,7 +57,7 @@ const projects = [
 
 function Portfolio() {
   return (
-    <div className="min-h-screen bg-white text-gray-900 font-sans grayscale contrast-[1.05]">
+    <div className="min-h-screen bg-white text-gray-900 font-sans contrast-[1.05]">
       <div className="max-w-4xl mx-auto border border-gray-900 rounded">
         {/* Nav */}
         <nav className="flex items-center justify-between px-8 py-4 border-b border-gray-900">

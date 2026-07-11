@@ -13,6 +13,12 @@ export const projects = [
     stack: ["React", "Tailwind CSS", "FastAPI", "MySQL", "spaCy", "scikit-learn"],
     role: "Final-year project (PFE), full-stack developer",
     link: "https://github.com",
+    // Drop your screenshots in public/projects/khadamni/ and list them here.
+    // Each image just needs a path (served from /public) and an optional alt text.
+    screenshots: [
+      // { src: "/projects/khadamni/1.png", alt: "KHADAMNI dashboard" },
+      // { src: "/projects/khadamni/2.png", alt: "CV compatibility score screen" },
+    ],
   },
   {
     slug: "alzheimer-mri",
@@ -26,6 +32,10 @@ export const projects = [
     stack: ["Python", "PyTorch", "EfficientNetB0", "Google Colab", "Kaggle"],
     role: "Independent research project",
     link: "https://github.com",
+    screenshots: [
+      // { src: "/projects/alzheimer-mri/1.png", alt: "Confusion matrix" },
+      // { src: "/projects/alzheimer-mri/2.png", alt: "Training accuracy curve" },
+    ],
   },
 ];
 
