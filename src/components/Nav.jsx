@@ -33,7 +33,7 @@ function Nav() {
         onClick={() => setOpen(false)}
         className="text-lg font-semibold italic text-violet-600 dark:text-violet-400"
       >
-        Boj.py
+        BojBoj
       </Link>
 
       <div className="flex items-center gap-2 sm:gap-5">
