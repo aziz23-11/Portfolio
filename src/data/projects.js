@@ -30,10 +30,10 @@ export const projects = [
     summary:
       "An image classification model that detects signs of Alzheimer's disease from brain MRI scans.",
     details:
-      "This project trains a convolutional neural network to classify brain MRI scans into stages of Alzheimer's disease progression. Built on an EfficientNetB0 backbone with transfer learning, the model is trained on an augmented Kaggle dataset (uraninjo/augmented-alzheimer-mri-dataset-v2) inside Google Colab. The pipeline covers data augmentation, class balancing, fine-tuning, and evaluation with confusion matrices and per-class accuracy.",
+      "This project trains a neural network to classify brain MRI scans into stages of dimensia's disease progression , the model is trained on an augmented Kaggle dataset (uraninjo/augmented-alzheimer-mri-dataset-v2) inside Google Colab. The pipeline covers data augmentation, class balancing, fine-tuning, and evaluation with confusion matrices and per-class accuracy.",
     stack: ["Python", "PyTorch", "EfficientNetB0", "Google Colab", "Kaggle"],
     role: "Independent research project",
-    link: "https://github.com",
+    link: "https://github.com/aziz23-11/Dimentia-MRI-Scan",
     demoLink: "",
     screenshots: [
       { src: "/projects/alzheimer-mri/analyse2.jpeg", alt: "Confusion matrix" },
