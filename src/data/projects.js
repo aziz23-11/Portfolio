@@ -36,8 +36,11 @@ export const projects = [
     link: "https://github.com",
     demoLink: "",
     screenshots: [
-      // { src: "/projects/alzheimer-mri/1.png", alt: "Confusion matrix" },
-      // { src: "/projects/alzheimer-mri/2.png", alt: "Training accuracy curve" },
+      { src: "/projects/alzheimer-mri/analyse2.jpeg", alt: "Confusion matrix" },
+      { src: "/projects/alzheimer-mri/analyse1.jpeg", alt: "Training accuracy curve" },
+      { src: "/projects/alzheimer-mri/landing.jpeg", alt: "landing page" },
+      { src: "/projects/alzheimer-mri/upload.jpeg", alt: "uploading file" },
+      { src: "/projects/alzheimer-mri/res.jpeg", alt: "results" },
     ],
   },
 ];
