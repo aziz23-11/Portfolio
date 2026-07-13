@@ -15,11 +15,11 @@ export const projects = [
     link: "https://github.com/aziz23-11/khadamni",
     demoLink: "",
     screenshots: [
-      { src: "/projects/khadamni/landing.jpeg", alt: "landing page" },
-      { src: "/projects/khadamni/score.jpeg", alt: "score page" },
-      { src: "/projects/khadamni/feedback.jpeg", alt: "feedback part" },
-      { src: "/projects/khadamni/profile.jpeg", alt: "profile page + job suggestion" },
-      { src: "/projects/khadamni/login.jpeg", alt: "login + signUp page" },
+      { src: "/projects/khadamni/landing.png", alt: "landing page" },
+      { src: "/projects/khadamni/score.png", alt: "score page" },
+      { src: "/projects/khadamni/feedback.png", alt: "feedback part" },
+      { src: "/projects/khadamni/profile.png", alt: "profile page + job suggestion" },
+      { src: "/projects/khadamni/login.png", alt: "login + signUp page" },
     ],
   },
   {
@@ -36,11 +36,11 @@ export const projects = [
     link: "https://github.com/aziz23-11/Dimentia-MRI-Scan",
     demoLink: "",
     screenshots: [
-      { src: "/projects/alzheimer-mri/analyse2.jpeg", alt: "Confusion matrix" },
-      { src: "/projects/alzheimer-mri/analyse1.jpeg", alt: "Training accuracy curve" },
-      { src: "/projects/alzheimer-mri/landing.jpeg", alt: "landing page" },
-      { src: "/projects/alzheimer-mri/upload.jpeg", alt: "uploading file" },
-      { src: "/projects/alzheimer-mri/res.jpeg", alt: "results" },
+      { src: "/projects/alzheimer-mri/analyse2.png", alt: "Confusion matrix" },
+      { src: "/projects/alzheimer-mri/analyse1.png", alt: "Training accuracy curve" },
+      { src: "/projects/alzheimer-mri/landing.png", alt: "landing page" },
+      { src: "/projects/alzheimer-mri/upload.png", alt: "uploading file" },
+      { src: "/projects/alzheimer-mri/res.png", alt: "results" },
     ],
   },
 ];
